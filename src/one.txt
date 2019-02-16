@@ -1,1 +1,3 @@
-src file
+#!/bin/bash
+echo "Hello";
+yum install httpd
